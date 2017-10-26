@@ -721,6 +721,7 @@ sammobile.com/*tracking.js
 sammobile.com/*vbulletin_quick_comment.js
 scandalads
 scene7.com$domain=www.ebay.com
+scorecardresearch.com
 script.crazyegg.com/pages/scripts/0004/4384.js
 script.crazyegg.com/pages/scripts/0021/7526.js
 section.PopularSearches

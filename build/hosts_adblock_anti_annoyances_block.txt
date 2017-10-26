@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-10-14T13:12:00.000Z+00:00 UTC
-! Version:        20171014131200000
+! Last modified:  2017-10-26T11:09:30.000Z+00:00 UTC
+! Version:        20171026110930000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          831
+! Rules:          832
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -732,6 +732,7 @@ sammobile.com/*tracking.js
 sammobile.com/*vbulletin_quick_comment.js
 scandalads
 scene7.com$domain=www.ebay.com
+scorecardresearch.com
 script.crazyegg.com/pages/scripts/0004/4384.js
 script.crazyegg.com/pages/scripts/0021/7526.js
 section.PopularSearches
